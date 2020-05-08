@@ -1,5 +1,5 @@
+@import "theme-a.scss";
 //@import "theme-b.scss";
-@import "theme-b.scss";
 .container {
   display: flex;
   flex-direction: column;
@@ -10,4 +10,8 @@
     text-align: center;
     margin: 0.1rem;
   }
+}
+h1,
+h2 {
+  text-align: center;
 }
