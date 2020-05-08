@@ -1,0 +1,26 @@
+.container {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  .box {
+    border: 1px solid grey;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    border-radius: 0.4rem;
+  }
+  .base {
+    background-color: blue;
+  }
+  .important {
+    background-color: midnightblue;
+  }
+  .warning {
+    background-color: powderblue;
+  }
+  .principal-font,
+  .secondary-font {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .shadow {
+    box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.5);
+  }
+}

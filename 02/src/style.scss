@@ -1,0 +1,13 @@
+//@import "theme-b.scss";
+@import "theme-b.scss";
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .box {
+    padding: 2rem;
+    width: 4rem;
+    text-align: center;
+    margin: 0.1rem;
+  }
+}

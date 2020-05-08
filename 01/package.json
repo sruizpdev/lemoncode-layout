@@ -1,0 +1,15 @@
+{
+  "name": "layout-sass",
+  "version": "1.0.0",
+  "description": "Paleta de colores dinámica con Sass",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "author": "Sergio Ruiz Pérez",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
